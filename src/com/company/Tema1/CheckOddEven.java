@@ -13,6 +13,7 @@ public class CheckOddEven {
             System.out.println("Even Number");
         else
             System.out.println("Odd Number");
+        System.out.println("bye!");
     }
 }
 
